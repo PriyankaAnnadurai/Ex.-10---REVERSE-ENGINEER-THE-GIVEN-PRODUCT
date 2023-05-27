@@ -32,11 +32,11 @@
 
 ## Input:
 
-### Output:
+## Output:
 
 
-### Name:
-### Register Number:
+### Name: PRIYANKA.A
+### Register Number: 212222230113
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
