@@ -31,8 +31,10 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/PriyankaAnnadurai/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118351569/169c7ab7-485f-4695-8137-1c4805f4a4d9)
 
 ## Output:
+![image](https://github.com/PriyankaAnnadurai/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118351569/e6775724-4979-4924-bace-6d59c39a7bab)
 
 
 ### Name: PRIYANKA.A
